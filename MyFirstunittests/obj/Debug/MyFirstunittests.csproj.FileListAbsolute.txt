@@ -1,0 +1,16 @@
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.abstractions.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\MyFirstunittests.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\MyFirstunittests.pdb
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.assert.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.core.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.execution.desktop.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.assert.pdb
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.assert.xml
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.core.pdb
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.core.xml
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.execution.desktop.pdb
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\bin\Debug\xunit.execution.desktop.xml
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\obj\Debug\MyFirstunittests.dll
+C:\CSharp\Experiment\MyFirstunittests\MyFirstunittests\obj\Debug\MyFirstunittests.pdb
